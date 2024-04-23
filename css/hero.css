@@ -1,0 +1,13 @@
+.hero {
+  padding-top: 60px;
+}
+
+.hero__title {
+  font-weight: 900;
+  font-size: 60px;
+  margin-bottom: 30px;
+}
+
+.hero__desc {
+  margin-bottom: 30px;
+}

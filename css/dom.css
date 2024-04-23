@@ -1,0 +1,34 @@
+.dom__text {
+  margin-bottom: 30px;
+}
+
+.dom__img {
+  margin-bottom: 30px;
+}
+
+.dom__img-small {
+  margin: 0 auto 30px;
+}
+
+.dom__figure {
+  border: 1px solid #000;
+  margin-bottom: 30px;
+}
+
+.dom__figure-text {
+  font-weight: 700;
+  color: #5e5e5e;
+  padding-top: 15px;
+}
+
+.dom__figure-text span {
+  font-weight: 400;
+}
+
+.dom__img-section {
+  margin-bottom: 30px;
+}
+
+.dom__image-cat {
+  margin-bottom: 30px;
+}

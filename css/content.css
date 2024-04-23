@@ -1,0 +1,27 @@
+.container__content {
+  max-width: 1140px;
+  min-height: 215px;
+  background: #f1f1f1;
+  border-radius: 10px;
+  margin: 0 auto;
+}
+
+.content__title {
+  font-weight: 700;
+  font-size: 44px;
+  padding-top: 25px;
+  padding-left: 15px;
+}
+
+.content__list {
+  color: #02535f;
+}
+
+.content__item:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.content__link {
+  border-bottom: 1px solid #000;
+  max-width: 552px;
+}

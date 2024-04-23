@@ -1,0 +1,30 @@
+.final {
+  padding-left: 15px;
+  padding-bottom: 75px;
+}
+
+.container__final {
+  border-radius: 10px;
+  max-width: 1140px;
+  background: #f1f1f1;
+  margin: 0 auto;
+}
+
+.final__title {
+  font-weight: 700;
+  font-size: 44px;
+  padding-top: 25px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+}
+
+.final__content {
+  padding-left: 15px;
+  padding-bottom: 25px;
+
+}
+
+.final__list {
+  /* padding-left: 15px; */
+  margin-bottom: 30px;
+}
