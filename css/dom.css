@@ -11,14 +11,16 @@
 }
 
 .dom__figure {
-  border: 1px solid #000;
   margin-bottom: 30px;
+  border-top: 1px solid #000;
 }
 
 .dom__figure-text {
   font-weight: 700;
   color: #5e5e5e;
-  padding-top: 15px;
+  padding: 15px 0 15px 29px;
+  border: 1px solid #000;
+  border-top: none;
 }
 
 .dom__figure-text span {
